@@ -3,7 +3,7 @@
 ## 312110248
 ## TI.21.B1
 <br>
-<b>Membuat Pagination</b>
+<b>Membuat Pagination</b><br>
 
 Mengubah Query dan tambahkan pagination pada Query tersebut dan<br>
 dan setting perpage hanya menampilkan 2 buah data
