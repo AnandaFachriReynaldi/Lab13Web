@@ -18,7 +18,7 @@ Menambahkan kode berikut pada file `style.css`<br>
 
 Setelah itu uji coba gunakan URL :
 ```
-http://localhost/lab13_php_pagination/index.php
+http://localhost/lab13_php_pagination/index.php?page=1
 ```
 Hasilnya :<br>
 ![Step4](SS/SS4.png)<br>
