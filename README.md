@@ -7,11 +7,11 @@
 
 Mengubah Query dan tambahkan pagination pada Query tersebut dan<br>
 dan setting perpage hanya menampilkan 2 buah data
-![Step1](SS/SS1.png)<br>
+![Step1](SS/SS1.jpg)<br>
 
 Membuat tampilan, melengkapi pagination link previous dan next sehingga<br>
 ketika diklik akan mengarah ke halaman sebelumnya atau selanjutnya
-![Step2](SS/SS2.png)<br>
+![Step2](SS/SS2.jpg)<br>
 
 Menambahkan kode berikut pada file `style.css`<br>
 ![Step3](SS/SS3.png)<br>
